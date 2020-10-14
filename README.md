@@ -15,7 +15,7 @@ Este trabalho tem como objetivo avaliar os dados de lutas do UFC e validar a per
 
 **O que é (MMA)**: 
 
-    "As artes marciais mistas (MMA) são um esporte de combate de contato que permitem uma ampla variedade de técnicas e habilidades de luta, a partir da mistura de vários outros esportes de combate. As regras permitem o uso de golpes tanto em pé quanto no chão. A arte possibilita que atletas de diferentes origens participem da competição"
+"As artes marciais mistas (MMA) são um esporte de combate de contato que permitem uma ampla variedade de técnicas e habilidades de luta, a partir da mistura de vários outros esportes de combate. As regras permitem o uso de golpes tanto em pé quanto no chão. A arte possibilita que atletas de diferentes origens participem da competição"
     
 Além das diferentes estilos de luta existentes, no MMA existem as seguintes formas de vencer:
 
