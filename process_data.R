@@ -6,9 +6,6 @@ getwd()
 library(GGally)
 library(tidyverse)
 library(ggplot2)
-library(Hmisc)
-library(magrittr)
-library(factoextra)
 #******************* LEITURA DOS DADOS ********************
 
 #Leitura da Base de Dados
@@ -22,5 +19,3 @@ summarytools::dfSummary(df_combat) %>%
   summarytools::view()
 
 #**********************************************************
-
-
